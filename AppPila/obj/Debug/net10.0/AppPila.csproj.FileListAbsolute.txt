@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\bin\Debug\net10.0\AppPila.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\bin\Debug\net10.0\AppPila.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\bin\Debug\net10.0\AppPila.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\bin\Debug\net10.0\AppPila.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\bin\Debug\net10.0\AppPila.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\refint\AppPila.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\AppPila.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppPila\obj\Debug\net10.0\ref\AppPila.dll
