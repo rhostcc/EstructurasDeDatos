@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\bin\Debug\net10.0\AppCola.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\bin\Debug\net10.0\AppCola.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\bin\Debug\net10.0\AppCola.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\bin\Debug\net10.0\AppCola.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\bin\Debug\net10.0\AppCola.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\refint\AppCola.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\AppCola.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppCola\obj\Debug\net10.0\ref\AppCola.dll
