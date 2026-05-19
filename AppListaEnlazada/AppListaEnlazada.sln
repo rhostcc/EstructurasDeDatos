@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppListaEnlazada", "AppListaEnlazada.csproj", "{5DA3FBCC-6327-584E-A367-5FE642C84222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA3FBCC-6327-584E-A367-5FE642C84222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA3FBCC-6327-584E-A367-5FE642C84222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA3FBCC-6327-584E-A367-5FE642C84222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA3FBCC-6327-584E-A367-5FE642C84222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7D6E34-826E-4F78-AF2F-F5A7F1B1D75F}
+	EndGlobalSection
+EndGlobal

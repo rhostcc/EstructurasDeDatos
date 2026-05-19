@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1bdfb45deb2ef2ef736f7da1d156b2b9134d2b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ba4b752912f8b370d5abaed25fface3003f213")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
