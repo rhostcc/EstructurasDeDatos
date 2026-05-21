@@ -1,1 +1,21 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using AppListaEnlazada.Clases;
+
+ListaEnlazada<int> lista = new ListaEnlazada<int>();
+lista.InsertarFin(1);
+lista.InsertarFin(2);
+lista.InsertarFin(3);
+lista.InsertarFin(4);
+lista.InsertarEn(0, 0);
+lista.InsertarEn(5, 5);
+lista.InsertarEn(6, 3);
+lista.MostrarElementos();
+lista.Reemplazar(1, 9);
+lista.MostrarElementos();
+//lista.EliminarInicio();
+lista.EliminarEn(0);
+lista.MostrarElementos();
+//lista.EliminarFin();
+lista.EliminarEn(lista.Cantidad() - 1);
+lista.MostrarElementos();
+lista.EliminarEn(2);
+lista.MostrarElementos();

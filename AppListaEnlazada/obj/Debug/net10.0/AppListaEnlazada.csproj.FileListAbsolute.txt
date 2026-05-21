@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\bin\Debug\net10.0\AppListaEnlazada.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\bin\Debug\net10.0\AppListaEnlazada.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\bin\Debug\net10.0\AppListaEnlazada.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\bin\Debug\net10.0\AppListaEnlazada.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\bin\Debug\net10.0\AppListaEnlazada.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\refint\AppListaEnlazada.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\AppListaEnlazada.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazada\obj\Debug\net10.0\ref\AppListaEnlazada.dll

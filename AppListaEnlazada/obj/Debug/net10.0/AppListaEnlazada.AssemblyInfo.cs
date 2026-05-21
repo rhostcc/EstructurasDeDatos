@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppListaEnlazada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cba5b527d71bf2f72303d2a18ae4fc8a6abdf28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d7676ba465db466755af0587e2c7c541a25efb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppListaEnlazada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppListaEnlazada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
