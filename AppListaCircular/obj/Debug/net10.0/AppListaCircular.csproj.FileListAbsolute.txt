@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\bin\Debug\net10.0\AppListaCircular.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\bin\Debug\net10.0\AppListaCircular.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\bin\Debug\net10.0\AppListaCircular.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\bin\Debug\net10.0\AppListaCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\bin\Debug\net10.0\AppListaCircular.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\refint\AppListaCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\AppListaCircular.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaCircular\obj\Debug\net10.0\ref\AppListaCircular.dll
