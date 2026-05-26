@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\bin\Debug\net10.0\AppListaDobleCircular.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\bin\Debug\net10.0\AppListaDobleCircular.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\bin\Debug\net10.0\AppListaDobleCircular.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\bin\Debug\net10.0\AppListaDobleCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\bin\Debug\net10.0\AppListaDobleCircular.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\refint\AppListaDobleCircular.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\AppListaDobleCircular.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaDobleCircular\obj\Debug\net10.0\ref\AppListaDobleCircular.dll

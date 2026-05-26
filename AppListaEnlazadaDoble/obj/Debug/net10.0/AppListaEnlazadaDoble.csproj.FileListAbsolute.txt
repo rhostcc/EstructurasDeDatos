@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\bin\Debug\net10.0\AppListaEnlazadaDoble.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\bin\Debug\net10.0\AppListaEnlazadaDoble.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\bin\Debug\net10.0\AppListaEnlazadaDoble.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\bin\Debug\net10.0\AppListaEnlazadaDoble.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\bin\Debug\net10.0\AppListaEnlazadaDoble.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\refint\AppListaEnlazadaDoble.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\AppListaEnlazadaDoble.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppListaEnlazadaDoble\obj\Debug\net10.0\ref\AppListaEnlazadaDoble.dll

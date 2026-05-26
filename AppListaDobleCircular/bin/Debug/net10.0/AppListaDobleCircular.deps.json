@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AppListaDobleCircular/1.0.0": {
+        "runtime": {
+          "AppListaDobleCircular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppListaDobleCircular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
