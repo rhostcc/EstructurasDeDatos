@@ -1,0 +1,15 @@
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\net10.0\AppArbolGeneral.exe
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\net10.0\AppArbolGeneral.deps.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\net10.0\AppArbolGeneral.runtimeconfig.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\net10.0\AppArbolGeneral.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\net10.0\AppArbolGeneral.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.AssemblyInfoInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.AssemblyInfo.cs
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.csproj.CoreCompileInputs.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.sourcelink.json
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\refint\AppArbolGeneral.dll
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.pdb
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\AppArbolGeneral.genruntimeconfig.cache
+C:\Users\rhost\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\net10.0\ref\AppArbolGeneral.dll
